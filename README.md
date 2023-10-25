@@ -1,0 +1,1 @@
+Neste Projeto desenvolvi uma calculadora utilizando React
